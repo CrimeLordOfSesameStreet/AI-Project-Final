@@ -10,11 +10,16 @@ exception that it may misidentify once in a blue moon. Otherwise, it works almos
 of many days of work and is my first ever game so have fun and FIND WALDO before the MACHINE finds it first!
 
 
-1. To run the game, install all the provided files provided by the git repository.
-2. Double-click on start_waldo.bat file and the game should start without issue.
-3. To close application, just press the x on the top far right corner, it should have no issues stopping suddenly so users shouldn't worry of any issues.
+1. To run the game, install all the provided files provided by the git repository and place them all in the same directory.
+2. (Optional) Download the following mini Python library to run program IF NECESSARY: https://drive.google.com/drive/folders/1PyydFTqrcNpwMY4ToFNOn8jOMvyaJA7h?usp=drive_link
+otherwise simply install torch,pygame,YOLO, and ultralytics inside Python environment I.E. Anaconda prompt
+3. (REQURED) Download the following "Wheres Waldo" images otherwise the game wont work: https://drive.google.com/drive/folders/1qeRkrhkJT8roXJq2AVi1FIg4x5iRy76Y?usp=drive_link
+4. Place the folders into the directory with the rest of the files that were installed from GitHub
+5. Double-click on start_waldo.bat file and the game should start without issue.
 
-The music included in the game WAS NOT made by me, sources found below.
+The music and iamges included in the game WAS NOT made by me, sources found below.
 
+
+Handford, Martin. Where’s Waldo? Little Brown, 25 May 1987.
 RisqRaptor. “Metal Gear Solid PS1 Game over Theme (Voiceless Version).” YouTube, 20 May 2016, www.youtube.com/watch?v=MHr3ag7B410. Accessed 27 Apr. 2025.
 Silly Small Cat. “SubiCat vs. TREI—Transmission (Sneak Peak of Song from Fnf Mod Im Making).” YouTube, 9 July 2024, www.youtube.com/watch?v=o6HSb7p88Qg. Accessed 27 Apr. 2025.
